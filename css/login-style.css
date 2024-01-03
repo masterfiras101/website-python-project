@@ -1,0 +1,48 @@
+
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        #title-form-login{
+            text-align: center;
+            margin-left: 50px;
+        }
+        
+        #login-form {
+            width: 400px;
+            padding: 16px;
+            background-color: white;
+            margin: 0 auto;
+            margin-top: 100px;
+            border: 2px solid #009fe8;
+            border-radius: 10px;
+            color:black;
+            font-weight: bold;
+            text-align: right;
+        }
+
+        #login-form  input[type=text], #login-form  input[type=password] {
+            width: 100%;
+            padding: 15px;
+            margin: 5px 0 35px 0;
+            border: 1px solid #009fe8;
+            background: #f1f1f1;
+            color:black;
+            font-weight: bold;
+            text-align: right;
+        }
+
+        #login-form input[type=submit] {
+            font-weight: bold;
+            background-color: #009fe8;
+            color: rgb(255, 254, 254);
+            padding: 14px 20px;
+            margin: 8px 50px 0 20px;
+            border: none;
+            cursor: pointer;
+            width: 70%;
+        }
+
+        #login-form input[type=submit]:hover {
+            background-color: #45a049;
+        }

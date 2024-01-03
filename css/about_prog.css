@@ -1,0 +1,39 @@
+
+body {
+    background-color: rgb(41, 50, 60);
+}
+
+.prog-data {
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 30%;
+    color: rgb(248, 248, 255);
+    border: 3px solid rgb(246, 254, 255);
+    font-size:12px;
+}
+
+.developers {
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 10%;
+    color: rgb(248, 248, 255);
+    border: 3px solid rgb(247, 254, 255);
+    font-size: 12px;
+}
+
+.main-div{
+    text-align: center;
+        font-size: 14px;
+        color: lightgrey;
+        font-family: 'Source Sans Pro', sans-serif;
+}
+
+.developers .dev-by{
+    margin-top: -1px;
+        margin: 0px 15px 0px 15px;
+        border-radius: 20px;
+        background-color: rgb(0, 96, 109);
+}
+
